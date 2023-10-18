@@ -9,4 +9,3 @@ while True:
         break
     except:
         print("что тупой переделывай")
-        print("пиздец")
